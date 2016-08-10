@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using LightInject;
 
-namespace opcode.ioc.ligthinject
+namespace opcode.ioc.lightinject
 {
     public static class IocRegistrator
     {

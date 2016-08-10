@@ -3,7 +3,7 @@
 var gulp = require("gulp"),
     nuget = require("gulp-nuget");
 
-var projectName = 'opcode4.web';
+var projectName = 'opcode4.lightinject';
 var apiKey = '75af7863-f210-49f5-b26e-163c93f1988d';
 var path = {
     nugetPath: 'D:\\Program Files\\nuget\\nuget.exe',

@@ -7,8 +7,8 @@
     <ProjectGuid>{9D95499C-19C8-44ED-94C2-520FFB05A791}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>opcode.ioc.ligthinject</RootNamespace>
-    <AssemblyName>opcode.ioc.ligthinject</AssemblyName>
+    <RootNamespace>opcode.ioc.lightinject</RootNamespace>
+    <AssemblyName>opcode.ioc.lightinject</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
